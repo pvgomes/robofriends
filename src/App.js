@@ -13,7 +13,7 @@ class App extends Component {
         }
     }
 
-    onSearchChange(event) {
+    onSearchChange = (event) => {
         console.log(event);
         const filteredRobots = this.state.robots.filter(robot => {
             return robot.name.toLowerCase().includes(this.state.searchfield.toLowerCase());
