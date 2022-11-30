@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family: 'Charpentier Renaissance Pro';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Charpentier Renaissance Pro'), url('CharpentierRenaissance-Norm.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Chartpentier Renaissance Pro';
+    color: #0ccac4;
+}
