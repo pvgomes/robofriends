@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.5972d5ce.css",
+    "main.js": "/robofriends/static/js/main.7188d535.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/CharpentierRenaissance-Norm.woff": "/robofriends/static/media/CharpentierRenaissance-Norm.440d5dd3925d5a4866b6.woff",
+    "index.html": "/robofriends/index.html",
+    "main.5972d5ce.css.map": "/robofriends/static/css/main.5972d5ce.css.map",
+    "main.7188d535.js.map": "/robofriends/static/js/main.7188d535.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5972d5ce.css",
+    "static/js/main.7188d535.js"
+  ]
+}
