@@ -1,5 +1,5 @@
 # Robofriends
-robo friends react app
+robo friends react app based on udemy course
 
 ## Available Scripts
 
